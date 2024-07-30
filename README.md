@@ -26,7 +26,7 @@
 
 3D Printed PICSciE Logo:
 
-![3D Printed PICSciE Logo](<PICSCIE LOGO/PICSCIE-3D.png>)
+<img src="PICSCIE LOGO/PICSCIE-3D.png" alt="3D Printed PICSciE Logo" width="200"/>
 
 3D Printed Princeton Research Computing Logo:
 
