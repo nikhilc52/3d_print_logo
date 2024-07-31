@@ -22,11 +22,7 @@
 
 **You can now import the STL in a 3D printing software, and edit characteristics accordingly.**
 
-## Sample Logos
-
-3D Printed PICSciE Logo:
-
-<img src="PICSCIE LOGO/PICSCIE-3D.png" alt="3D Printed PICSciE Logo" width="200"/>
+## Sample Logo
 
 3D Printed Princeton Research Computing Logo:
 
