@@ -26,4 +26,4 @@
 
 3D Printed Princeton Research Computing Logo:
 
-<img src="PRC LOGO/PRC-3D.png" alt="3D Printed Princeton Research Computing Logo" width="200"/>
+<img src="PRC LOGO/PRC-3D.jpg" alt="3D Printed Princeton Research Computing Logo" width="200"/>
